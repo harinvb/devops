@@ -16,7 +16,7 @@
 	<name>devops</name>
 	<description>devops</description>
 	<properties>
-	<surefire.version></surefire.version>
+	<surefire.version>3.0.0-M5</surefire.version>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
