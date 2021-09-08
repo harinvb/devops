@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>org.mindtree</groupId>
 	<artifactId>devops</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>devops</name>
 	<description>devops</description>
@@ -66,6 +66,6 @@
 		<url>https://github.com/harinvb/devops.git</url>
 		<connection>scm:git:git@github.com:harinvb/devops.git</connection>
 		<developerConnection>scm:git:git@github.com:harinvb/devops.git</developerConnection>
-		<tag>0.0.1-SNAPSHOT</tag>
+		<tag>HEAD</tag>
 	</scm>
 </project>
